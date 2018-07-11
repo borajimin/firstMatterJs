@@ -1,0 +1,23 @@
+{
+  "name": "firstmatterjs",
+  "version": "1.0.0",
+  "description": "practicing matter.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borajimin/firstMatterJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borajimin/firstMatterJs/issues"
+  },
+  "homepage": "https://github.com/borajimin/firstMatterJs#readme",
+  "dependencies": {
+    "matter-js": "^0.14.0",
+    "matter-tools": "^0.11.1"
+  }
+}
